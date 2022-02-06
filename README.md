@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @byanum /Anum Khalid
-- 👀 I’m interested in front-end development, web designing & web development
-- 🌱 I’m currently learning frameworks of front-end development
-- 💞️ I’m looking to collaborate on front-end development & backened development. 
+- 👀 I’m interested in front-end development, web designing, web development and mobile development
+- 🌱 I’m currently learning frameworks of javaScript and native mobile development.
+- 💞️ I’m looking to collaborate on web and mobile development. 
 - 📫 Reach me on instagram @anumkhaled1
 
 <!---
