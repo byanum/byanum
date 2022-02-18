@@ -7,6 +7,7 @@
 * Bootstrap
 * HTML
 * CSS
+* PHP
 
 ## IDE
 * Visual Studio Code
