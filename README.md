@@ -4,6 +4,7 @@
 ## Skills and Experience
 * React Native
 * JavaScript
+* AJAX
 * Bootstrap
 * HTML
 * CSS
