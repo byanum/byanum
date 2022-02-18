@@ -6,10 +6,17 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: REACT NATIVE / JAVASCRIPT / BOOTSTRAP / HTML / CSS
+## Skills and Experience
+* React Native
+* JavaScript
+* Bootstrap
+* HTML
+* CSS
 
-- 🔭 I’m currently working on this page. 
 
+
+## You can reach out 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/byanum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anumkhaled)  
 
 
 
