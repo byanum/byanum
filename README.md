@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @byanum /Anum Khalid
+### Hey there! I'm Anum Khalid.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanum)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - 👀 I’m interested in front-end development, web designing, web development and mobile development.
 - 🌱 I’m currently learning frameworks of javaScript and native mobile development.
 - 💞️ I’m looking to collaborate on web and mobile development. 
