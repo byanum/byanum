@@ -13,6 +13,7 @@
 
 ## IDE
 * Visual Studio Code
+* Android Studio
 
 ## Design
 * Figma
