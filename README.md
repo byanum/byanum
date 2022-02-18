@@ -2,6 +2,17 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanum)](https://github.com/anuraghazra/github-readme-stats)
 
+### Hi there 👋, I'm Anum
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
+Skills: REACT NATIVE / JAVASCRIPT / BOOTSTRAP / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 
 - 👀 I’m interested in front-end development, web designing, web development and mobile development.
