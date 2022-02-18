@@ -9,6 +9,7 @@
 * HTML
 * CSS
 * PHP
+* Android (Java)
 
 ## IDE
 * Visual Studio Code
