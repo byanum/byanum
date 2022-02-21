@@ -7,7 +7,7 @@
 * React Native
 * JavaScript
 * AJAX
-* Chart.js
+* Chart JS
 * Bootstrap
 * HTML
 * CSS
