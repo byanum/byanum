@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Anum Khalid
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byanum)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=byanum&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=byanum&langs_count=5&theme=tokyonight)]()
+
 ## Skills and Experience
 * React Native
 * JavaScript
